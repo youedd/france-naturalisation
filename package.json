@@ -5,7 +5,7 @@
   "type": "module",
   "description": "",
   "scripts": {
-    "start": "tailwindcss -i input.css -o ./pages/main.css --watch"
+    "start": "tailwindcss -i input.css -o ./docs/main.css --watch"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.4",
