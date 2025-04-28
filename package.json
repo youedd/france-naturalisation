@@ -1,0 +1,16 @@
+{
+  "name": "france-naturalisation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "",
+  "scripts": {
+    "start": "tailwindcss -i input.css -o ./pages/main.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "serve": "^14.2.4",
+    "tailwindcss": "^4.1.4"
+  },
+  "dependencies": {}
+}
